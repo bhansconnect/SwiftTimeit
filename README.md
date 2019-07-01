@@ -4,4 +4,9 @@ A TimeIt function written in swift based loosely after [IPython timeit magic](ht
 
 ## Installation
 
+In Swift Jupyter Notebook:
+```
+%install '.package(url: "https://github.com/bhansconnect/SwiftTimeit", from: "1.0.0")' SwiftTimeit
+```
+
 ## Usage
