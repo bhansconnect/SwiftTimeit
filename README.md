@@ -10,3 +10,5 @@ In Swift Jupyter Notebook:
 ```
 
 ## Usage
+
+See [TimeitExample.ipynb](https://github.com/bhansconnect/SwiftTimeit/blob/master/TimeitExample.ipynb)
